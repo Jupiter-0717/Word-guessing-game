@@ -1,5 +1,6 @@
 # Word-guessing-game
 This is a simple word guessing game programmed in Python. You can replace the image path in the code with the image you want to add.
+
 <img width="196" alt="image" src="https://github.com/user-attachments/assets/8f53df07-2dea-48f9-b17a-28a6e3400eae" />
 
 login screen
